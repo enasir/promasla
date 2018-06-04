@@ -447,6 +447,7 @@ nav .menu {
 .footer__list {
     color: black;
     font-size: 18px;
+    overflow: hidden;
 }
 .footer__list:hover{
     font-weight: bolder;
